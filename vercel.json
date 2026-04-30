@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/((?!assets|EDUMED_TRUST_APPLICATION_FORM\\.pdf).*)", "destination": "/index.html" }
+  ]
+}
